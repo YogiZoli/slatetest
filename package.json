@@ -2,6 +2,7 @@
   "name": "tam",
   "version": "0.0.1",
   "devDependencies": {
-    "@shopify/slate-tools": "0.14.0"
+    "@shopify/slate-tools": "0.14.0",
+    "grunt-shopify": "^1.0.2"
   }
 }
